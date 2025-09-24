@@ -19,9 +19,6 @@ Each phase is developed and maintained in a separate repository. To fully unders
 **Simulation in Matlab**
 <img width="975" height="345" alt="image" src="https://github.com/user-attachments/assets/b6a79c3e-cb50-4c8b-8031-68cf37d72d3a" />
 
-<img width="2152" height="744" alt="image" src="https://github.com/user-attachments/assets/094f788f-c563-4578-9a16-6444f3711da1" />
-
-
 <img width="503" height="528" alt="image" src="https://github.com/user-attachments/assets/a70ef804-3794-4a6c-9390-611c2c5a7973" />
 
 ---
