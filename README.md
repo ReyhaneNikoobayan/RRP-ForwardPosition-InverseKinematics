@@ -21,10 +21,12 @@ Each phase is developed and maintained in a separate repository. To fully unders
 
 ---
 **Finding end-effector position base on the joint values**
+
 <img width="1306" height="340" alt="image" src="https://github.com/user-attachments/assets/b081c6c2-1807-4e72-9050-96972380da80" />
 
 ---
 **Invesrse Kinematics (Finding joint values based on end-effector position)**
+
 <img width="1320" height="330" alt="image" src="https://github.com/user-attachments/assets/2d4a726e-6c4a-4e77-84ee-9e3eb50874d8" />
 
 
