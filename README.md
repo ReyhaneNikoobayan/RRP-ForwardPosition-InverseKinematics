@@ -9,7 +9,7 @@ Each phase is developed and maintained in a separate repository. To fully unders
 - [Phase 4](https://github.com/ReyhaneNikoobayan/Path-generation-Obstacle-avoidance)
 - [Phase 5](https://github.com/ReyhaneNikoobayan/Path-generation-Obstacle-avoidance-dijkstra)
 - [Phase 6](https://github.com/ReyhaneNikoobayan/designing-controller-robot)
-- 
+  
 ---
 
 # Simulation and Kinematic Analysis of an RRP Robot using SimMechanics
